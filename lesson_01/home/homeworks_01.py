@@ -46,4 +46,8 @@ book3 = (book1 + book2) / 2
 price_books = book1 + book2 + book3
 print(price_books)
 """
+# не брати до уваги:
+name = "Ivan"
+last_name = "Voronov"
+print(name + last_name)
 
