@@ -121,4 +121,16 @@ for sentence in adwentures_of_tom_sawer_sentences:
 
 # task 10
 #""" Виведіть кількість слів останнього речення з adwentures_of_tom_sawer_sentences.
-print(len(adwentures_of_tom_sawer_sentences[-1]))
+
+print(len(adwentures_of_tom_sawer_sentences[-1].split()))
+
+#new_adwentures_of_tom_sawer_sentences = adwentures_of_tom_sawer_sentences[-1].split()
+#print(len(new_adwentures_of_tom_sawer_sentences))
+
+
+
+
+
+
+
+
