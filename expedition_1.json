@@ -1,0 +1,32 @@
+{
+    "expedition_id": "EXP-01",
+    "researcher": "Дослідник А",
+    "location": "Південь-Захід",
+    "data": "2026-05-10",
+    "records": [
+        {
+            "title": "Ой глибокий колодязю",
+            "genre": "пісня",
+            "region": "Волинь",
+            "narrator": "Ніна Матвієнко",
+            "year": 1975,
+            "content": "Текст...",
+            "tags": [
+                "лірика"
+            ],
+            "verified": true
+        },
+        {
+            "title": "Хліб — усьому голова",
+            "genre": "прислів'я",
+            "region": "Таврія",
+            "narrator": "Олена Кравченко",
+            "year": 1982,
+            "content": "Текст...",
+            "tags": [
+                "мудрість"
+            ],
+            "verified": true
+        }
+    ]
+}
